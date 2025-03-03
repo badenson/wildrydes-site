@@ -127,4 +127,5 @@ Here is the code used to test the Lambda function:
     "body": "{\"PickupLocation\":{\"Latitude\":47.6174755835663,\"Longitude\":-122.28837066650185}}"
 }
 ```
+![WideRydes-Architect](https://github.com/user-attachments/assets/aba60454-243c-4b79-b473-fd9969315543)
 
